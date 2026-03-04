@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Internships & Career Opportunities Club Portal
+# 🚀 Internships & Career Opportunities
 **The Official Digital Hub for the Udaan Event Stall**
 
 [![Event Date](https://img.shields.io/badge/Event%20Date-27%20July%202025-FACC15?style=for-the-badge)](#)
